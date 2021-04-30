@@ -2,6 +2,7 @@
 # Contributor:  kfgz <kfgz at interia pl>
 # Contributor: Allan McRae <allan at archlinux dot org>
 # Contributor: Tom Newsom <Jeepster at gmx dot co dot uk>
+# Contributor: Simao Gomes Viana (Toowoxx) <simao dot gomes at toowoxx dot de>
 
 pkgname=xdelta
 pkgver=1.1.4
